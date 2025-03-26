@@ -10,3 +10,4 @@ git clone https://github.com/your-username/todometer.git
 ```bash
 cd todometer
 ```
+A simple and efficient task management app.
