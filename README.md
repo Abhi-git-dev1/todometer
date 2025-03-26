@@ -1,1 +1,3 @@
-This is an update from main branch
+
+This is an update from conflict-demo branch
+
